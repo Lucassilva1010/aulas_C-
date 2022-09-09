@@ -1,0 +1,11 @@
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Calculadora1\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Calculadora1\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Calculadora1\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Calculadora1\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Calculadora1\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Calculadora1\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Calculadora1\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Calculadora1\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Calculadora1\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Calculadora1\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Calculadora1\Calculadora\obj\Debug\Calculadora.pdb

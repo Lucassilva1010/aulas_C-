@@ -1,0 +1,15 @@
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Casting-aula07\Condicional-if\bin\Debug\net6.0\Condicional-if.exe
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Casting-aula07\Condicional-if\bin\Debug\net6.0\Condicional-if.deps.json
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Casting-aula07\Condicional-if\bin\Debug\net6.0\Condicional-if.runtimeconfig.json
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Casting-aula07\Condicional-if\bin\Debug\net6.0\Condicional-if.dll
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Casting-aula07\Condicional-if\bin\Debug\net6.0\Condicional-if.pdb
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Casting-aula07\Condicional-if\obj\Debug\net6.0\Condicional-if.csproj.AssemblyReference.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Casting-aula07\Condicional-if\obj\Debug\net6.0\Condicional-if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Casting-aula07\Condicional-if\obj\Debug\net6.0\Condicional-if.AssemblyInfoInputs.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Casting-aula07\Condicional-if\obj\Debug\net6.0\Condicional-if.AssemblyInfo.cs
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Casting-aula07\Condicional-if\obj\Debug\net6.0\Condicional-if.csproj.CoreCompileInputs.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Casting-aula07\Condicional-if\obj\Debug\net6.0\Condicional-if.dll
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Casting-aula07\Condicional-if\obj\Debug\net6.0\refint\Condicional-if.dll
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Casting-aula07\Condicional-if\obj\Debug\net6.0\Condicional-if.pdb
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Casting-aula07\Condicional-if\obj\Debug\net6.0\Condicional-if.genruntimeconfig.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Casting-aula07\Condicional-if\obj\Debug\net6.0\ref\Condicional-if.dll

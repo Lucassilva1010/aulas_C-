@@ -1,0 +1,15 @@
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Casting-aula07\Casting-aula07\obj\Debug\net6.0\Casting-aula07.csproj.AssemblyReference.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Casting-aula07\Casting-aula07\obj\Debug\net6.0\Casting-aula07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Casting-aula07\Casting-aula07\obj\Debug\net6.0\Casting-aula07.AssemblyInfoInputs.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Casting-aula07\Casting-aula07\obj\Debug\net6.0\Casting-aula07.AssemblyInfo.cs
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Casting-aula07\Casting-aula07\obj\Debug\net6.0\Casting-aula07.csproj.CoreCompileInputs.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Casting-aula07\Casting-aula07\bin\Debug\net6.0\Casting-aula07.exe
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Casting-aula07\Casting-aula07\bin\Debug\net6.0\Casting-aula07.deps.json
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Casting-aula07\Casting-aula07\bin\Debug\net6.0\Casting-aula07.runtimeconfig.json
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Casting-aula07\Casting-aula07\bin\Debug\net6.0\Casting-aula07.dll
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Casting-aula07\Casting-aula07\bin\Debug\net6.0\Casting-aula07.pdb
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Casting-aula07\Casting-aula07\obj\Debug\net6.0\Casting-aula07.dll
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Casting-aula07\Casting-aula07\obj\Debug\net6.0\refint\Casting-aula07.dll
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Casting-aula07\Casting-aula07\obj\Debug\net6.0\Casting-aula07.pdb
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Casting-aula07\Casting-aula07\obj\Debug\net6.0\Casting-aula07.genruntimeconfig.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Casting-aula07\Casting-aula07\obj\Debug\net6.0\ref\Casting-aula07.dll

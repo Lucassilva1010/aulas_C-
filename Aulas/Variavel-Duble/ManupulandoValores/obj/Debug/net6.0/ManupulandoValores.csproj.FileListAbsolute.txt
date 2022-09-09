@@ -1,0 +1,15 @@
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Variavel-Duble\ManupulandoValores\bin\Debug\net6.0\ManupulandoValores.exe
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Variavel-Duble\ManupulandoValores\bin\Debug\net6.0\ManupulandoValores.deps.json
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Variavel-Duble\ManupulandoValores\bin\Debug\net6.0\ManupulandoValores.runtimeconfig.json
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Variavel-Duble\ManupulandoValores\bin\Debug\net6.0\ManupulandoValores.dll
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Variavel-Duble\ManupulandoValores\bin\Debug\net6.0\ManupulandoValores.pdb
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Variavel-Duble\ManupulandoValores\obj\Debug\net6.0\ManupulandoValores.csproj.AssemblyReference.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Variavel-Duble\ManupulandoValores\obj\Debug\net6.0\ManupulandoValores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Variavel-Duble\ManupulandoValores\obj\Debug\net6.0\ManupulandoValores.AssemblyInfoInputs.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Variavel-Duble\ManupulandoValores\obj\Debug\net6.0\ManupulandoValores.AssemblyInfo.cs
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Variavel-Duble\ManupulandoValores\obj\Debug\net6.0\ManupulandoValores.csproj.CoreCompileInputs.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Variavel-Duble\ManupulandoValores\obj\Debug\net6.0\ManupulandoValores.dll
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Variavel-Duble\ManupulandoValores\obj\Debug\net6.0\refint\ManupulandoValores.dll
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Variavel-Duble\ManupulandoValores\obj\Debug\net6.0\ManupulandoValores.pdb
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Variavel-Duble\ManupulandoValores\obj\Debug\net6.0\ManupulandoValores.genruntimeconfig.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Variavel-Duble\ManupulandoValores\obj\Debug\net6.0\ref\ManupulandoValores.dll

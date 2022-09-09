@@ -1,0 +1,15 @@
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Variavel-Duble\AulaVariavel-Duble\obj\Debug\net6.0\AulaVariavel-Duble.csproj.AssemblyReference.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Variavel-Duble\AulaVariavel-Duble\obj\Debug\net6.0\AulaVariavel-Duble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Variavel-Duble\AulaVariavel-Duble\obj\Debug\net6.0\AulaVariavel-Duble.AssemblyInfoInputs.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Variavel-Duble\AulaVariavel-Duble\obj\Debug\net6.0\AulaVariavel-Duble.AssemblyInfo.cs
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Variavel-Duble\AulaVariavel-Duble\obj\Debug\net6.0\AulaVariavel-Duble.csproj.CoreCompileInputs.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Variavel-Duble\AulaVariavel-Duble\bin\Debug\net6.0\AulaVariavel-Duble.exe
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Variavel-Duble\AulaVariavel-Duble\bin\Debug\net6.0\AulaVariavel-Duble.deps.json
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Variavel-Duble\AulaVariavel-Duble\bin\Debug\net6.0\AulaVariavel-Duble.runtimeconfig.json
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Variavel-Duble\AulaVariavel-Duble\bin\Debug\net6.0\AulaVariavel-Duble.dll
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Variavel-Duble\AulaVariavel-Duble\bin\Debug\net6.0\AulaVariavel-Duble.pdb
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Variavel-Duble\AulaVariavel-Duble\obj\Debug\net6.0\AulaVariavel-Duble.dll
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Variavel-Duble\AulaVariavel-Duble\obj\Debug\net6.0\refint\AulaVariavel-Duble.dll
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Variavel-Duble\AulaVariavel-Duble\obj\Debug\net6.0\AulaVariavel-Duble.pdb
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Variavel-Duble\AulaVariavel-Duble\obj\Debug\net6.0\AulaVariavel-Duble.genruntimeconfig.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Variavel-Duble\AulaVariavel-Duble\obj\Debug\net6.0\ref\AulaVariavel-Duble.dll
