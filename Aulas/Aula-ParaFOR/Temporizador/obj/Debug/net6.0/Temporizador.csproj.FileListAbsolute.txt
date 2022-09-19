@@ -1,0 +1,15 @@
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula-ParaFOR\Temporizador\bin\Debug\net6.0\Temporizador.exe
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula-ParaFOR\Temporizador\bin\Debug\net6.0\Temporizador.deps.json
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula-ParaFOR\Temporizador\bin\Debug\net6.0\Temporizador.runtimeconfig.json
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula-ParaFOR\Temporizador\bin\Debug\net6.0\Temporizador.dll
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula-ParaFOR\Temporizador\bin\Debug\net6.0\Temporizador.pdb
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula-ParaFOR\Temporizador\obj\Debug\net6.0\Temporizador.csproj.AssemblyReference.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula-ParaFOR\Temporizador\obj\Debug\net6.0\Temporizador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula-ParaFOR\Temporizador\obj\Debug\net6.0\Temporizador.AssemblyInfoInputs.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula-ParaFOR\Temporizador\obj\Debug\net6.0\Temporizador.AssemblyInfo.cs
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula-ParaFOR\Temporizador\obj\Debug\net6.0\Temporizador.csproj.CoreCompileInputs.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula-ParaFOR\Temporizador\obj\Debug\net6.0\Temporizador.dll
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula-ParaFOR\Temporizador\obj\Debug\net6.0\refint\Temporizador.dll
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula-ParaFOR\Temporizador\obj\Debug\net6.0\Temporizador.pdb
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula-ParaFOR\Temporizador\obj\Debug\net6.0\Temporizador.genruntimeconfig.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula-ParaFOR\Temporizador\obj\Debug\net6.0\ref\Temporizador.dll

@@ -1,0 +1,8 @@
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula-ParaFOR\AulaRevisao\bin\Debug\AulaRevisao.exe.config
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula-ParaFOR\AulaRevisao\bin\Debug\AulaRevisao.exe
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula-ParaFOR\AulaRevisao\bin\Debug\AulaRevisao.pdb
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula-ParaFOR\AulaRevisao\obj\Debug\AulaRevisao.csproj.AssemblyReference.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula-ParaFOR\AulaRevisao\obj\Debug\AulaRevisao.csproj.SuggestedBindingRedirects.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula-ParaFOR\AulaRevisao\obj\Debug\AulaRevisao.csproj.CoreCompileInputs.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula-ParaFOR\AulaRevisao\obj\Debug\AulaRevisao.exe
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula-ParaFOR\AulaRevisao\obj\Debug\AulaRevisao.pdb

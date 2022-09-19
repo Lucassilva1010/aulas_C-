@@ -1,0 +1,11 @@
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula-ParaFOR\Aula-ParaFOR\bin\Debug\Aula-ParaFOR.exe.config
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula-ParaFOR\Aula-ParaFOR\bin\Debug\Aula-ParaFOR.exe
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula-ParaFOR\Aula-ParaFOR\bin\Debug\Aula-ParaFOR.pdb
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula-ParaFOR\Aula-ParaFOR\obj\Debug\Aula-ParaFOR.csproj.AssemblyReference.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula-ParaFOR\Aula-ParaFOR\obj\Debug\Aula-ParaFOR.csproj.SuggestedBindingRedirects.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula-ParaFOR\Aula-ParaFOR\obj\Debug\Aula_ParaFOR.Form1.resources
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula-ParaFOR\Aula-ParaFOR\obj\Debug\Aula_ParaFOR.Properties.Resources.resources
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula-ParaFOR\Aula-ParaFOR\obj\Debug\Aula-ParaFOR.csproj.GenerateResource.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula-ParaFOR\Aula-ParaFOR\obj\Debug\Aula-ParaFOR.csproj.CoreCompileInputs.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula-ParaFOR\Aula-ParaFOR\obj\Debug\Aula-ParaFOR.exe
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula-ParaFOR\Aula-ParaFOR\obj\Debug\Aula-ParaFOR.pdb

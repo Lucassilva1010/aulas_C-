@@ -1,0 +1,15 @@
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Casting-aula07\Aula_Whille\bin\Debug\net6.0\Aula_Whille.exe
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Casting-aula07\Aula_Whille\bin\Debug\net6.0\Aula_Whille.deps.json
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Casting-aula07\Aula_Whille\bin\Debug\net6.0\Aula_Whille.runtimeconfig.json
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Casting-aula07\Aula_Whille\bin\Debug\net6.0\Aula_Whille.dll
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Casting-aula07\Aula_Whille\bin\Debug\net6.0\Aula_Whille.pdb
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Casting-aula07\Aula_Whille\obj\Debug\net6.0\Aula_Whille.csproj.AssemblyReference.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Casting-aula07\Aula_Whille\obj\Debug\net6.0\Aula_Whille.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Casting-aula07\Aula_Whille\obj\Debug\net6.0\Aula_Whille.AssemblyInfoInputs.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Casting-aula07\Aula_Whille\obj\Debug\net6.0\Aula_Whille.AssemblyInfo.cs
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Casting-aula07\Aula_Whille\obj\Debug\net6.0\Aula_Whille.csproj.CoreCompileInputs.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Casting-aula07\Aula_Whille\obj\Debug\net6.0\Aula_Whille.dll
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Casting-aula07\Aula_Whille\obj\Debug\net6.0\refint\Aula_Whille.dll
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Casting-aula07\Aula_Whille\obj\Debug\net6.0\Aula_Whille.pdb
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Casting-aula07\Aula_Whille\obj\Debug\net6.0\Aula_Whille.genruntimeconfig.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Casting-aula07\Aula_Whille\obj\Debug\net6.0\ref\Aula_Whille.dll
