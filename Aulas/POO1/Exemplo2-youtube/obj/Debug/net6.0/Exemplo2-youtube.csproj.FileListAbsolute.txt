@@ -1,0 +1,15 @@
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\POO1\Exemplo2-youtube\bin\Debug\net6.0\Exemplo2-youtube.exe
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\POO1\Exemplo2-youtube\bin\Debug\net6.0\Exemplo2-youtube.deps.json
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\POO1\Exemplo2-youtube\bin\Debug\net6.0\Exemplo2-youtube.runtimeconfig.json
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\POO1\Exemplo2-youtube\bin\Debug\net6.0\Exemplo2-youtube.dll
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\POO1\Exemplo2-youtube\bin\Debug\net6.0\Exemplo2-youtube.pdb
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\POO1\Exemplo2-youtube\obj\Debug\net6.0\Exemplo2-youtube.csproj.AssemblyReference.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\POO1\Exemplo2-youtube\obj\Debug\net6.0\Exemplo2-youtube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\POO1\Exemplo2-youtube\obj\Debug\net6.0\Exemplo2-youtube.AssemblyInfoInputs.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\POO1\Exemplo2-youtube\obj\Debug\net6.0\Exemplo2-youtube.AssemblyInfo.cs
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\POO1\Exemplo2-youtube\obj\Debug\net6.0\Exemplo2-youtube.csproj.CoreCompileInputs.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\POO1\Exemplo2-youtube\obj\Debug\net6.0\Exemplo2-youtube.dll
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\POO1\Exemplo2-youtube\obj\Debug\net6.0\refint\Exemplo2-youtube.dll
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\POO1\Exemplo2-youtube\obj\Debug\net6.0\Exemplo2-youtube.pdb
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\POO1\Exemplo2-youtube\obj\Debug\net6.0\Exemplo2-youtube.genruntimeconfig.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\POO1\Exemplo2-youtube\obj\Debug\net6.0\ref\Exemplo2-youtube.dll

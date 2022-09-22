@@ -1,0 +1,8 @@
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\POO1\Escola\bin\Debug\Escola.exe.config
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\POO1\Escola\bin\Debug\Escola.exe
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\POO1\Escola\bin\Debug\Escola.pdb
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\POO1\Escola\obj\Debug\Escola.csproj.AssemblyReference.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\POO1\Escola\obj\Debug\Escola.csproj.SuggestedBindingRedirects.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\POO1\Escola\obj\Debug\Escola.csproj.CoreCompileInputs.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\POO1\Escola\obj\Debug\Escola.exe
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\POO1\Escola\obj\Debug\Escola.pdb

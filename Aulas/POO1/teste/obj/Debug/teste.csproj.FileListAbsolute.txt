@@ -1,0 +1,8 @@
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\POO1\teste\bin\Debug\teste.exe.config
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\POO1\teste\bin\Debug\teste.exe
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\POO1\teste\bin\Debug\teste.pdb
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\POO1\teste\obj\Debug\teste.csproj.AssemblyReference.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\POO1\teste\obj\Debug\teste.csproj.SuggestedBindingRedirects.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\POO1\teste\obj\Debug\teste.csproj.CoreCompileInputs.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\POO1\teste\obj\Debug\teste.exe
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\POO1\teste\obj\Debug\teste.pdb

@@ -1,0 +1,15 @@
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\POO1\AulaPOO-1\bin\Debug\net6.0\AulaPOO-1.exe
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\POO1\AulaPOO-1\bin\Debug\net6.0\AulaPOO-1.deps.json
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\POO1\AulaPOO-1\bin\Debug\net6.0\AulaPOO-1.runtimeconfig.json
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\POO1\AulaPOO-1\bin\Debug\net6.0\AulaPOO-1.dll
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\POO1\AulaPOO-1\bin\Debug\net6.0\AulaPOO-1.pdb
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\POO1\AulaPOO-1\obj\Debug\net6.0\AulaPOO-1.csproj.AssemblyReference.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\POO1\AulaPOO-1\obj\Debug\net6.0\AulaPOO-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\POO1\AulaPOO-1\obj\Debug\net6.0\AulaPOO-1.AssemblyInfoInputs.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\POO1\AulaPOO-1\obj\Debug\net6.0\AulaPOO-1.AssemblyInfo.cs
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\POO1\AulaPOO-1\obj\Debug\net6.0\AulaPOO-1.csproj.CoreCompileInputs.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\POO1\AulaPOO-1\obj\Debug\net6.0\AulaPOO-1.dll
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\POO1\AulaPOO-1\obj\Debug\net6.0\refint\AulaPOO-1.dll
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\POO1\AulaPOO-1\obj\Debug\net6.0\AulaPOO-1.pdb
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\POO1\AulaPOO-1\obj\Debug\net6.0\AulaPOO-1.genruntimeconfig.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\POO1\AulaPOO-1\obj\Debug\net6.0\ref\AulaPOO-1.dll

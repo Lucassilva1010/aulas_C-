@@ -1,0 +1,17 @@
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Calculadora-ComFormsPOO\Calculadora-ComFormsPOO\bin\Debug\net6.0-windows\Calculadora-ComFormsPOO.exe
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Calculadora-ComFormsPOO\Calculadora-ComFormsPOO\bin\Debug\net6.0-windows\Calculadora-ComFormsPOO.deps.json
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Calculadora-ComFormsPOO\Calculadora-ComFormsPOO\bin\Debug\net6.0-windows\Calculadora-ComFormsPOO.runtimeconfig.json
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Calculadora-ComFormsPOO\Calculadora-ComFormsPOO\bin\Debug\net6.0-windows\Calculadora-ComFormsPOO.dll
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Calculadora-ComFormsPOO\Calculadora-ComFormsPOO\bin\Debug\net6.0-windows\Calculadora-ComFormsPOO.pdb
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Calculadora-ComFormsPOO\Calculadora-ComFormsPOO\obj\Debug\net6.0-windows\Calculadora-ComFormsPOO.csproj.AssemblyReference.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Calculadora-ComFormsPOO\Calculadora-ComFormsPOO\obj\Debug\net6.0-windows\Calculadora_ComFormsPOO.Form1.resources
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Calculadora-ComFormsPOO\Calculadora-ComFormsPOO\obj\Debug\net6.0-windows\Calculadora-ComFormsPOO.csproj.GenerateResource.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Calculadora-ComFormsPOO\Calculadora-ComFormsPOO\obj\Debug\net6.0-windows\Calculadora-ComFormsPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Calculadora-ComFormsPOO\Calculadora-ComFormsPOO\obj\Debug\net6.0-windows\Calculadora-ComFormsPOO.AssemblyInfoInputs.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Calculadora-ComFormsPOO\Calculadora-ComFormsPOO\obj\Debug\net6.0-windows\Calculadora-ComFormsPOO.AssemblyInfo.cs
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Calculadora-ComFormsPOO\Calculadora-ComFormsPOO\obj\Debug\net6.0-windows\Calculadora-ComFormsPOO.csproj.CoreCompileInputs.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Calculadora-ComFormsPOO\Calculadora-ComFormsPOO\obj\Debug\net6.0-windows\Calculadora-ComFormsPOO.dll
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Calculadora-ComFormsPOO\Calculadora-ComFormsPOO\obj\Debug\net6.0-windows\refint\Calculadora-ComFormsPOO.dll
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Calculadora-ComFormsPOO\Calculadora-ComFormsPOO\obj\Debug\net6.0-windows\Calculadora-ComFormsPOO.pdb
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Calculadora-ComFormsPOO\Calculadora-ComFormsPOO\obj\Debug\net6.0-windows\Calculadora-ComFormsPOO.genruntimeconfig.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Calculadora-ComFormsPOO\Calculadora-ComFormsPOO\obj\Debug\net6.0-windows\ref\Calculadora-ComFormsPOO.dll
